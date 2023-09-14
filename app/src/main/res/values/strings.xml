@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">na bank bd dobre</string>
+    <string name="janbank">JANBANK</string>
+    <string name="create">ZAŁÓŻ KONTO</string>
+    <string name="next">ZALOGUJ</string>
+    <string name="pin">PODAJ PIN</string>
 </resources>
